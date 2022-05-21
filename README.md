@@ -4,3 +4,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Screenshots
 
+<p>
+<img src="screenshots/page-one.png" width="260" />
+</p>
